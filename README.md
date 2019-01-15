@@ -1,9 +1,8 @@
 ## Must-read papers on NRL/NE.
 NRL: network representation learning. NE: network embedding.
 
-Contributed by [Cunchao Tu](http://thunlp.org/~tcc/), Yuan Yao and Zhengyan Zhang.
-
-We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit for NE/NRL. This repository provides a standard NE/NRL(Network Representation Learning）training and testing framework. Currently, the implemented models in OpenNE include DeepWalk, LINE, node2vec, GraRep, TADW and GCN.
+forked from [thunlp](https://github.com/thunlp/NRLPapers)
+They release [OpenNE](https://github.com/thunlp/openne), an open source toolkit for NE/NRL. Currently, the implemented models in OpenNE include DeepWalk, LINE, node2vec, GraRep, TADW and GCN.
 
 ### Survey papers:
 
@@ -367,6 +366,10 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **A Unified Framework for Community Detection and Network Representation Learning.**
 *Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang, Leyu Lin.* TKDE 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8403293/)
+
+1. **Poincaré Embeddings for Learning Hierarchical Representations**
+*Maximilian Nickel, Douwe Kiela* NIPS 2017, [paper](https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations.pdf?tdsourcetag=s_pcqq_aiomsg)  [code](https://github.com/facebookresearch/poincare-embeddings)
+
 
 ### Preprints
 
